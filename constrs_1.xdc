@@ -118,6 +118,117 @@ set_property PACKAGE_PIN E8 [get_ports {som240_1_connector_User_led_tri_o[1]}]
 
 
 
+####################################################################################
+# PMOD 1
+####################################################################################
+
+set_property BOARD_PART_PIN som240_1_a17 [get_ports {som240_1_connector_pmod1_gpio_tri_io[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod1_gpio_tri_io[0]}]
+set_property PCB_MIN_DELAY 0.33704 [get_ports {som240_1_connector_pmod1_gpio_tri_io[0]}]
+set_property PCB_MAX_DELAY 0.41194 [get_ports {som240_1_connector_pmod1_gpio_tri_io[0]}]
+set_property PACKAGE_PIN H12 [get_ports {som240_1_connector_pmod1_gpio_tri_io[0]}]
+
+set_property BOARD_PART_PIN som240_1_d20 [get_ports {som240_1_connector_pmod1_gpio_tri_io[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod1_gpio_tri_io[1]}]
+set_property PCB_MIN_DELAY 0.371 [get_ports {som240_1_connector_pmod1_gpio_tri_io[1]}]
+set_property PCB_MAX_DELAY 0.45344 [get_ports {som240_1_connector_pmod1_gpio_tri_io[1]}]
+set_property PACKAGE_PIN E10 [get_ports {som240_1_connector_pmod1_gpio_tri_io[1]}]
+
+set_property BOARD_PART_PIN som240_1_d21 [get_ports {som240_1_connector_pmod1_gpio_tri_io[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod1_gpio_tri_io[2]}]
+set_property PCB_MIN_DELAY 0.35255 [get_ports {som240_1_connector_pmod1_gpio_tri_io[2]}]
+set_property PCB_MAX_DELAY 0.43089 [get_ports {som240_1_connector_pmod1_gpio_tri_io[2]}]
+set_property PACKAGE_PIN D10 [get_ports {som240_1_connector_pmod1_gpio_tri_io[2]}]
+
+set_property BOARD_PART_PIN som240_1_d22 [get_ports {som240_1_connector_pmod1_gpio_tri_io[3]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod1_gpio_tri_io[3]}]
+set_property PCB_MIN_DELAY 0.361 [get_ports {som240_1_connector_pmod1_gpio_tri_io[3]}]
+set_property PCB_MAX_DELAY 0.44122 [get_ports {som240_1_connector_pmod1_gpio_tri_io[3]}]
+set_property PACKAGE_PIN C11 [get_ports {som240_1_connector_pmod1_gpio_tri_io[3]}]
+
+set_property BOARD_PART_PIN som240_1_b20 [get_ports {som240_1_connector_pmod1_gpio_tri_io[4]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod1_gpio_tri_io[4]}]
+set_property PCB_MIN_DELAY 0.34069 [get_ports {som240_1_connector_pmod1_gpio_tri_io[4]}]
+set_property PCB_MAX_DELAY 0.41639 [get_ports {som240_1_connector_pmod1_gpio_tri_io[4]}]
+set_property PACKAGE_PIN B10 [get_ports {som240_1_connector_pmod1_gpio_tri_io[4]}]
+
+set_property BOARD_PART_PIN som240_1_b21 [get_ports {som240_1_connector_pmod1_gpio_tri_io[5]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod1_gpio_tri_io[5]}]
+set_property PCB_MIN_DELAY 0.33491 [get_ports {som240_1_connector_pmod1_gpio_tri_io[5]}]
+set_property PCB_MAX_DELAY 0.40933 [get_ports {som240_1_connector_pmod1_gpio_tri_io[5]}]
+set_property PACKAGE_PIN E12 [get_ports {som240_1_connector_pmod1_gpio_tri_io[5]}]
+
+set_property BOARD_PART_PIN som240_1_b22 [get_ports {som240_1_connector_pmod1_gpio_tri_io[6]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod1_gpio_tri_io[6]}]
+set_property PCB_MIN_DELAY 0.33602 [get_ports {som240_1_connector_pmod1_gpio_tri_io[6]}]
+set_property PCB_MAX_DELAY 0.41069 [get_ports {som240_1_connector_pmod1_gpio_tri_io[6]}]
+set_property PACKAGE_PIN D11 [get_ports {som240_1_connector_pmod1_gpio_tri_io[6]}]
+
+set_property BOARD_PART_PIN som240_1_c22 [get_ports {som240_1_connector_pmod1_gpio_tri_io[7]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod1_gpio_tri_io[7]}]
+set_property PCB_MIN_DELAY 0.3381 [get_ports {som240_1_connector_pmod1_gpio_tri_io[7]}]
+set_property PCB_MAX_DELAY 0.41324 [get_ports {som240_1_connector_pmod1_gpio_tri_io[7]}]
+set_property PACKAGE_PIN B11 [get_ports {som240_1_connector_pmod1_gpio_tri_io[7]}]
+
+
+
+
+####################################################################################
+# PMOD 2
+####################################################################################
+
+set_property BOARD_PART_PIN som240_1_d18 [get_ports {som240_1_connector_pmod2_gpio_tri_io[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod2_gpio_tri_io[0]}]
+set_property PCB_MIN_DELAY 0.38701 [get_ports {som240_1_connector_pmod2_gpio_tri_io[0]}]
+set_property PCB_MAX_DELAY 0.47301 [get_ports {som240_1_connector_pmod2_gpio_tri_io[0]}]
+set_property PACKAGE_PIN J11 [get_ports {som240_1_connector_pmod2_gpio_tri_io[0]}]
+
+set_property BOARD_PART_PIN som240_1_b16 [get_ports {som240_1_connector_pmod2_gpio_tri_io[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod2_gpio_tri_io[1]}]
+set_property PCB_MIN_DELAY 0.35799 [get_ports {som240_1_connector_pmod2_gpio_tri_io[1]}]
+set_property PCB_MAX_DELAY 0.43755 [get_ports {som240_1_connector_pmod2_gpio_tri_io[1]}]
+set_property PACKAGE_PIN J10 [get_ports {som240_1_connector_pmod2_gpio_tri_io[1]}]
+
+set_property BOARD_PART_PIN som240_1_b17 [get_ports {som240_1_connector_pmod2_gpio_tri_io[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod2_gpio_tri_io[2]}]
+set_property PCB_MIN_DELAY 0.39667 [get_ports {som240_1_connector_pmod2_gpio_tri_io[2]}]
+set_property PCB_MAX_DELAY 0.48483 [get_ports {som240_1_connector_pmod2_gpio_tri_io[2]}]
+set_property PACKAGE_PIN K13 [get_ports {som240_1_connector_pmod2_gpio_tri_io[2]}]
+
+set_property BOARD_PART_PIN som240_1_b18 [get_ports {som240_1_connector_pmod2_gpio_tri_io[3]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod2_gpio_tri_io[3]}]
+set_property PCB_MIN_DELAY 0.40679 [get_ports {som240_1_connector_pmod2_gpio_tri_io[3]}]
+set_property PCB_MAX_DELAY 0.49719 [get_ports {som240_1_connector_pmod2_gpio_tri_io[3]}]
+set_property PACKAGE_PIN K12 [get_ports {som240_1_connector_pmod2_gpio_tri_io[3]}]
+
+set_property BOARD_PART_PIN som240_1_c18 [get_ports {som240_1_connector_pmod2_gpio_tri_io[4]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod2_gpio_tri_io[4]}]
+set_property PCB_MIN_DELAY 0.40046 [get_ports {som240_1_connector_pmod2_gpio_tri_io[4]}]
+set_property PCB_MAX_DELAY 0.48946 [get_ports {som240_1_connector_pmod2_gpio_tri_io[4]}]
+set_property PACKAGE_PIN H11 [get_ports {som240_1_connector_pmod2_gpio_tri_io[4]}]
+
+set_property BOARD_PART_PIN som240_1_c19 [get_ports {som240_1_connector_pmod2_gpio_tri_io[5]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod2_gpio_tri_io[5]}]
+set_property PCB_MIN_DELAY 0.34671 [get_ports {som240_1_connector_pmod2_gpio_tri_io[5]}]
+set_property PCB_MAX_DELAY 0.42375 [get_ports {som240_1_connector_pmod2_gpio_tri_io[5]}]
+set_property PACKAGE_PIN G10 [get_ports {som240_1_connector_pmod2_gpio_tri_io[5]}]
+
+set_property BOARD_PART_PIN som240_1_c20 [get_ports {som240_1_connector_pmod2_gpio_tri_io[6]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod2_gpio_tri_io[6]}]
+set_property PCB_MIN_DELAY 0.3668 [get_ports {som240_1_connector_pmod2_gpio_tri_io[6]}]
+set_property PCB_MAX_DELAY 0.44832 [get_ports {som240_1_connector_pmod2_gpio_tri_io[6]}]
+set_property PACKAGE_PIN F12 [get_ports {som240_1_connector_pmod2_gpio_tri_io[6]}]
+
+set_property BOARD_PART_PIN som240_1_a15 [get_ports {som240_1_connector_pmod2_gpio_tri_io[7]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {som240_1_connector_pmod2_gpio_tri_io[7]}]
+set_property PCB_MIN_DELAY 0.35537 [get_ports {som240_1_connector_pmod2_gpio_tri_io[7]}]
+set_property PCB_MAX_DELAY 0.43435 [get_ports {som240_1_connector_pmod2_gpio_tri_io[7]}]
+set_property PACKAGE_PIN F11 [get_ports {som240_1_connector_pmod2_gpio_tri_io[7]}]
+
+
+
+
+
 #####################################################################################
 ## Constraints from file : 'bd_afc3_psr_aclk_0_board.xdc'
 #####################################################################################
